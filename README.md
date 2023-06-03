@@ -10,12 +10,14 @@
 <br/>
 
 <h3>Key Qualifications:</h3>
+<ul>
 <li>SDLC, Agile Project Management, MS Project, JIRA, TFS, Scrum</li>
 <li>Java, SpringBoot, Spring Security, Hibernate</li>
 <li>C#, .NET Core, Entity Framework</li>
 <li>BPMN, SOA, Web Services, Restful API</li> 
 <li>Oracle, SQL Server, PL/SQL</li>
 <li>XML, JSON</li>
+</ul>
 
 
 <!--
